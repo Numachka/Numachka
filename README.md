@@ -8,7 +8,7 @@ Even though high heels are uncomfortable to walk in - women still wear them beca
 And big warm winter coats? Even though they are as warm as they get (like a hug!) people don't wear them because they aren't as good looking as leather jackets for example.<br>
 So if the documentation for a product is off or the UI\UX isn't up to par - the product will fail. <br>
 
-Hence My efforts are always towards a beautful and easy to use product. <br>
+Hence My efforts are towards learning how to beautify and create easy to use applications and systems. <br>
 
 🔭 I’m currently working on finding my first professional work.<br>
 🌱 I’m Learning more about design theory, UI\UX design and Vuetify. <br>
