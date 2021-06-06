@@ -5,7 +5,7 @@ My direction in software development and engineering is about full stack with an
 I believe that for software products, even if your algorithms and backend are in order and everything works lightning fast - it doesn't guarantee user satisfaction!<br>
 Think about a clothing analogy - <br>
 Even though high heels are uncomfortable to walk in - women still wear them because they look nice! <br>
-And big warm winter coats? Even though they are as warm as they get (like a hug!) people don't wear them because they are as complementing as leather jackets or other coats.<br>
+And big warm winter coats? Even though they are as warm as they get (like a hug!) people don't wear them because they aren't as good looking as leather jackets for example.<br>
 So if the documentation for a product is off or the UI\UX isn't up to par - the product will fail. <br>
 
 Hence My efforts are always towards a beautful and easy to use product. <br>
