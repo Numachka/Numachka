@@ -1,7 +1,7 @@
 ### 👋 Hi There! 
 
 I'm Nahum, an upcoming software engineer from Tel Aviv, Israel.<br>
-My direction in software development and engineering is about full stack with and emphasis on front end UI\UX elements. 
+My direction in software development and engineering is about full stack with and emphasis on front end UI\UX elements.  <br>
 I believe that for software products, even if your algorithms and backend are in order and everything works lightning fast - it doesn't guarantee user satisfaction!<br>
 Think about a clothing analogy - <br>
 Even though high heels are uncomfortable to walk in - women still wear them because they look nice! <br>
