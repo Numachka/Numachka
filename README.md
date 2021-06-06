@@ -1,14 +1,14 @@
 ### 👋 Hi There! 
 
-I'm Nahum, an upcoming software engineer from Tel Aviv, Israel.
+I'm Nahum, an upcoming software engineer from Tel Aviv, Israel.<br>
 My direction in software development and engineering is about full stack with and emphasis on front end UI\UX elements. 
-I believe that for software products, even if your algorithms and backend are in order and everything works lightning fast - it doesn't guarantee user satisfaction!
-Think about a clothing analogy - 
-Even though high heels are uncomfortable to walk in - women still wear them because they look nice!
-And big warm winter coats? Even though they are as warm as they get (like a hug!) people don't wear them because they are as complementing as leather jackets or other coats.
-So if the documentation for a product is off or the UI\UX isn't up to par - the product will fail.
+I believe that for software products, even if your algorithms and backend are in order and everything works lightning fast - it doesn't guarantee user satisfaction!<br>
+Think about a clothing analogy - <br>
+Even though high heels are uncomfortable to walk in - women still wear them because they look nice! <br>
+And big warm winter coats? Even though they are as warm as they get (like a hug!) people don't wear them because they are as complementing as leather jackets or other coats.<br>
+So if the documentation for a product is off or the UI\UX isn't up to par - the product will fail. <br>
 
-Hence My efforts are always towards a beautful and easy to use product.
+Hence My efforts are always towards a beautful and easy to use product. <br>
 
 🔭 I’m currently working on finding my first professional work.<br>
 🌱 I’m Learning more about design theory, UI\UX design and Vuetify. <br>
