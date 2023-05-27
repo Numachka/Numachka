@@ -1,17 +1,7 @@
 ### 👋 Hi There! 
 
-I'm Nahum, an upcoming software engineer from Tel Aviv, Israel.<br>
-My direction in software development and engineering is about full stack with and emphasis on front end UI\UX elements.  <br>
-I believe that for software products, even if your algorithms and backend are in order and everything works lightning fast - it doesn't guarantee user satisfaction!<br>
-Think about a clothing analogy - <br>
-Even though high heels are uncomfortable to walk in - women still wear them because they look nice! <br>
-And big warm winter coats? Even though they are as warm as they get (like a hug!) people don't wear them because they aren't as good looking as leather jackets for example.<br>
-So if the documentation for a product is off or the UI\UX isn't up to par - the product will fail. <br>
+I'm Nahum, a software engineer from Tel Aviv, Israel.<br>
 
-Hence My efforts are towards learning how to beautify and create easy to use applications and systems. <br>
-
-🔭 I’m currently working on finding my first professional work.<br>
-🌱 I’m Learning more about design theory, UI\UX design and Vuetify. <br>
 📫 How to reach me:<br><br>
  <a href="https://www.linkedin.com/in/nahum-kletkin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:  nahumkletkin@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -38,14 +28,4 @@ Hence My efforts are towards learning how to beautify and create easy to use app
 <!--
 **Numachka/Numachka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
